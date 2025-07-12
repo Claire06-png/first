@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(201, 228, 250);
+    height: 100vh;
+    font-family: sans-serif;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+img{
+    height: 180px;
+    border-radius: 8px;
+   
+}
+p{
+   
+    font-size: 12px;
+    color: gray;
+    
+}
+.qr_code{
+    width: 200px;
+    background-color: white;
+    border-radius: 10px;
+    height: 80%;
+    padding: 20px;
+    text-align: center;
+}
